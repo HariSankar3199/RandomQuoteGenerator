@@ -1,0 +1,22 @@
+body {
+  margin: 0px;
+}
+.btnrt {
+  padding-left: 2px;
+}
+.main {
+  background: rgb(2, 0, 36);
+  background: linear-gradient(
+    90deg,
+    rgba(2, 0, 36, 1) 0%,
+    rgba(9, 9, 121, 1) 35%,
+    rgba(0, 212, 255, 1) 100%
+  );
+
+  height: 100vh;
+}
+
+.Bgcard{
+    background-color: rgb(157, 60, 25);
+   border-radius: 5px;
+}
